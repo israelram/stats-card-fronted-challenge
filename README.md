@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://frontend-mentor-stats-card.netlify.app/)
 
 ## My process
 
@@ -74,5 +74,5 @@ Using variables for styles and mobile first workflow
 ## Author
 
 - Website - [Israel Ramirez](https://isra.netlify.app/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/israelram)
-- Twitter - [@yourusername](https://www.twitter.com/isDeveloperr)
+- Frontend Mentor - [@israelram](https://www.frontendmentor.io/profile/israelram)
+- Twitter - [@isDeveloperr](https://www.twitter.com/isDeveloperr)
